@@ -226,4 +226,17 @@
     </snapshotRepository>
 </distributionManagement>
 
+    <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-19-50-releases</name>
+        <url>http://18.219.64.131:8081/artifactory/petclinic</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-19-50-snapshots</name>
+        <url>http://18.219.64.131:8081/artifactory/petclinic</url>
+    </snapshotRepository>
+</distributionManagement>
+    
 </project>
