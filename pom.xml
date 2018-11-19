@@ -213,17 +213,17 @@
     </license>
   </licenses>
     
-    <distributionManagement>
-     <repository>
+<distributionManagement>
+    <repository>
         <id>central</id>
         <name>ip-172-31-19-50-releases</name>
         <url>http://3.16.25.156:8081/artifactory/petclinic</url>
-     </repository>
-     <snapshotRepository>
+    </repository>
+    <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-19-50-snapshots</name>
         <url>http://3.16.25.156:8081/artifactory/petclinic</url>
-     </snapshotRepository>
+    </snapshotRepository>
 </distributionManagement>
     
 </project>
